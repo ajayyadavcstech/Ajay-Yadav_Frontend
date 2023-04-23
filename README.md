@@ -107,6 +107,7 @@ export default List;
 
 
 # Output Screen:
-![image](https://user-images.githubusercontent.com/82077595/233790977-05ae9352-f9c7-442a-be7a-43b379bc43de.png)
+![Screenshot 2023-04-23 185641](https://user-images.githubusercontent.com/77874610/233842475-a8a9f076-8e73-4cf2-a325-5f4e809c380a.png)
+
 
  
